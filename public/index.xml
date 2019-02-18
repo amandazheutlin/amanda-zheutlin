@@ -191,16 +191,6 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/./privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/./privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Polygenic risk scores: What are they good for?</title>
       <link>/./publication/prs_comm/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
@@ -246,6 +236,16 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
       <guid>/./publication/nde1/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuregulin signaling pathway in smoking behavior</title>
+      <link>/./publication/neuregulin/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/./publication/neuregulin/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
