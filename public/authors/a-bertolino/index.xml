@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Bertolino on Amanda Blue Zheutlin</title>
+    <link>/./authors/a-bertolino/</link>
+    <description>Recent content in A Bertolino on Amanda Blue Zheutlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/./authors/a-bertolino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interaction of childhood urbanicity and variation in dopamine genes alters adult prefrontal function as measured by functional magnetic resonance imaging (fMRI)</title>
+      <link>/./publication/urbanicity-comt/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/./publication/urbanicity-comt/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
