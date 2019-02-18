@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Anderson on Amanda Blue Zheutlin</title>
+    <link>/./authors/k-anderson/</link>
+    <description>Recent content in K Anderson on Amanda Blue Zheutlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/./authors/k-anderson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Complement gene expression predicts superior temporal cortical thickness in humans</title>
+      <link>/./publication/complement/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/./publication/complement/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
