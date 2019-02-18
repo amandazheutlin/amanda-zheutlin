@@ -5,8 +5,8 @@
 
 #profile .portrait {
   background-image: url('../img/amanda.jpg');
-  width: 275px;
-  height: 275px;
+  width: auto;
+  height: auto;
   margin: 0 auto;
   border-radius: 0%;
   background-size: cover;
