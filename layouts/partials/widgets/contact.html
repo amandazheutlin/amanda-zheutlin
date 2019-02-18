@@ -1,0 +1,58 @@
+{{ $ := .root }}
+{{ $page := .page }}
+   
+<!-- Contact widget -->
+<div id="profile">
+<ul class="network-icon" aria-hidden="true">
+{{ range $.Site.Params.social }}
+{{ $pack := or .icon_pack "fas" }}
+{{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+{{end}}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+</div>
+
+<div id="carousel">
+<div class = "slide">
+      <img src="/img/fitzroy.JPG" alt="MountFitzRoy" style="height: 225px;"/>
+</div>
+    <div class="slide">
+  <img src="/img/wellesley1.JPG" alt="Wellesley" style="height:225px;"/>
+  </div>
+  <div class="slide">
+    <img src="/img/libraryofcongress.JPG" alt="LibraryofCongress" style="height:225px;"/>
+    </div>
+<div class = "slide">
+      <img src="/img/costarica.JPG" alt="CostaRica" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/lakecrescent.JPG" alt="LakeCrescent" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/sunflower.JPG" alt="NewHaven" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/cambridge.JPG" alt="Cambridge" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/rainier.JPG" alt="MountRainier" style="height: 225px;"/>
+</div>
+<div class = "slide">
+      <img src="/img/chalten.JPG" alt="Chalten" style="height: 225px;"/>
+</div>
+</div>
