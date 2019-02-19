@@ -19,6 +19,7 @@ here are the websites + guides + resources I used heavily:
 + netlify (https://app.netlify.com/)
 + github (https://github.com/amandazheutlin/amanda-zheutlin)
 + RStudio and rmarkdown cheatsheet (https://rmarkdown.rstudio.com/lesson-15.html)
-+ other blogs (https://talesofr.wordpress.com/2017/08/18/starting-a-rmarkdown-blog-with-bookdown-hugo-github/)
++ another blog (https://talesofr.wordpress.com/2017/08/18/starting-a-rmarkdown-blog-with-bookdown-hugo-github/)
++ and another one (https://github.com/fliptanedo/FlipWebsite2017 + https://theory.ucr.edu/flip/)
 + also tried a simpler version of this via instuctions from Emily Zabor  (http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
 + originally inspired to make a website using R from Monica Gerber (http://www.monicagerber.com/) + her github (https://github.com/monicagerber/my-website)
