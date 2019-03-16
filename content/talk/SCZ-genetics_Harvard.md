@@ -1,5 +1,5 @@
 +++
-title = "Genetics of Schizophrenia"
+title = "Genetics of schizophrenia"
 date = 2019-03-14T00:00:00  # Schedule page publish date.
 draft = false
 
