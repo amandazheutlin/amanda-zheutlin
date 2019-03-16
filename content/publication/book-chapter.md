@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "2016_SCZGenetics.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
