@@ -17,11 +17,11 @@ abstract = "Overview of schizophrenia genetics including heritability, genetic a
 abstract_short = "  "
 
 # Name of event and optional event URL.
-event = "Guest Lecture for Psychosis: Development, Symptoms, and Treatment"
+event = "Guest Lecture, Psychosis: Development, Symptoms, and Treatment, Harvard University"
 event_url = " "
 
 # Location of event.
-location = "Harvard University, Cambridge, MA"
+location = "Cambridge, MA"
 
 # Is this a featured talk? (true/false)
 featured = false
