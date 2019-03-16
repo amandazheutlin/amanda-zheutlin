@@ -1,6 +1,6 @@
 +++
 title = "Common variants for schizophrenia ascertained through genome-wide association of a cognitive endophenotype"
-date = 2018-11-13T00:00:00  # Schedule page publish date.
+date = 2015-03-01T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
