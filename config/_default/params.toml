@@ -167,6 +167,11 @@ sharing = true
   link = "https://scholar.google.com/citations?hl=en&user=KHE4zp0AAAAJ"
 
 [[social]]
+  icon = "researchgate"
+  icon_pack = "fab"
+  link = "https://www.researchgate.net/profile/Amanda_Zheutlin"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/amandazheutlin"
